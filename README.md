@@ -2,10 +2,12 @@
 <h3 align="center">I am a student at CodeSpace academy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateo-benzien&label=Profile%20views&color=0e75b6&style=flat" alt="mateo-benzien" /> </p>
+<p>I am a sudent at CodeSpace academy, I'm 19 years on and graduated from Fairbon college in 2023, I have gained knowledge of HTML,Css and JS.
+My goal is to work for a well known company and proceed to improve on my coding capabilities.</p>
 
 - 🔭 I’m currently working on **CDV02**
 
-- 🌱 I’m currently learning **Software Development Fundamentals and java engineering**
+- 🌱 I’m currently learning **Software Development Fundamentals and Java engineering**
 
 - 📝You can view my profile at [http://127.0.0.1:5500](http://127.0.0.1:5500)
 
